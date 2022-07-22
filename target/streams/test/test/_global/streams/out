@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(util.UtilsSpec, org.scalatest.tools.Framework$$anon$1@5f89f263, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(parser.CsvParserSpec, org.scalatest.tools.Framework$$anon$1@5f89f263, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCsvParserSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCsvParser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Parse The Csv file successfully[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUtilsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUtils[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get list of files from directory successfully[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get average[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should get min and max[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 743 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	parser.CsvParserSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util.UtilsSpec[0m
